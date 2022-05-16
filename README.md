@@ -1,6 +1,8 @@
 # Deep User Multi-Interest Network
 our code is implemented based on [DUMN](https://github.com/hzzai/DUMN)
 ## Running
+We use Tensorflow1.14 and python3.6
+## Prepare Data
 wget -c http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Beauty_5.json.gz
 
 gzip -d reviews_Beauty_5.json.gz
